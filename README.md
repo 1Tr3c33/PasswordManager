@@ -6,7 +6,9 @@ Once the Master Key is created, we can start adding urls, for each site, the pro
 Once it is created, it copies it to the clipboard to paste it in the password field to be filled in.
 We can access and delete the saved passwords, or check again which password is implemented. 
 
-#Realizada por 
+#Realizada por
+
+
 #████████╗██████╗░██████╗░░█████╗░███████╗
 #╚══██╔══╝██╔══██╗╚════██╗██╔══██╗██╔════╝
 #░░░██║░░░██████╔╝░█████╔╝██║░░╚═╝█████╗░░
